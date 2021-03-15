@@ -7,6 +7,8 @@
 3. 스크랩 결과를 저장하여 다음 검색 시 빠르게 결과 출력
 
 ## 사진
+<img width="1440" alt="스크린샷 2021-03-15 오후 5 45 51" src="https://user-images.githubusercontent.com/78836615/111126867-83fefb80-85b6-11eb-8d9a-c192373f68ee.png">
+<img width="1440" alt="스크린샷 2021-03-15 오후 5 45 43" src="https://user-images.githubusercontent.com/78836615/111126876-86615580-85b6-11eb-94b3-e2ab453b88e9.png">
 
 
 #### 참조
